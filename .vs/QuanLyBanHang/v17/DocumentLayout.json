@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\quanlybanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|d:\\ct243\\thuc hanh kiem thu pm thu cong cho sv\\quanlybanhang 2\\quanlybanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\quanlybanhang\\frmtacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmtacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\quanlybanhang\\frmsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\quanlybanhang\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\quanlybanhang\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\quanlybanhang\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\quanlybanhang\\frmhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\quanlybanhang\\frmnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\quanlybanhang\\frmhoadontheokhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmhoadontheokhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\quanlybanhang\\frmhoadontheokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmhoadontheokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Form1.cs",
+              "ToolTip": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\Form1.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Form1.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAnwHkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:44:40.983Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSanPham.cs",
+              "DocumentMoniker": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmSanPham.cs",
+              "ToolTip": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmSanPham.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmSanPham.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwGwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:20:37.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmSanPham.cs",
+              "ToolTip": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmSanPham.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\frmSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:57:01.724Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmTacGia.cs [Design]",
+              "DocumentMoniker": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmTacGia.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmTacGia.cs",
+              "ToolTip": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmTacGia.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\frmTacGia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:29:15.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDon.cs",
+              "ToolTip": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmHoaDon.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\frmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:20:19.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmSanPham.Designer.cs",
+              "DocumentMoniker": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmSanPham.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmSanPham.Designer.cs",
+              "ToolTip": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmSanPham.Designer.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmSanPham.Designer.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAYwCYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:57:18.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDon.cs",
+              "ToolTip": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmHoaDon.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmHoaDon.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAjwAsBAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:54:41.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmNhanVien.cs",
+              "ToolTip": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:05:51.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmHoaDon.Designer.cs",
+              "DocumentMoniker": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDon.Designer.cs",
+              "ToolTip": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmHoaDon.Designer.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmHoaDon.Designer.cs",
+              "ViewState": "AgIAADwBAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:58:15.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmNhanVien.Designer.cs",
+              "DocumentMoniker": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmNhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmNhanVien.Designer.cs",
+              "ToolTip": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmNhanVien.Designer.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmNhanVien.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:58:21.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmHoaDonTheoKhachHang.designer.cs",
+              "DocumentMoniker": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmHoaDonTheoKhachHang.designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDonTheoKhachHang.designer.cs",
+              "ToolTip": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmHoaDonTheoKhachHang.designer.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmHoaDonTheoKhachHang.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:58:19.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmHoaDonTheoKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmHoaDonTheoKhachHang.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDonTheoKhachHang.cs",
+              "ToolTip": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmHoaDonTheoKhachHang.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\frmHoaDonTheoKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:58:18.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Form1.cs",
+              "ToolTip": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\Form1.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:56:49.902Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
