@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\QuanLyBanHang 2-20241025T072532Z-001\\QuanLyBanHang 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|c:\\users\\admin\\downloads\\quanlybanhang 2-20241025t072532z-001\\quanlybanhang 2\\quanlybanhang\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\admin\\Downloads\\QuanLyBanHang 2-20241025T072532Z-001\\QuanLyBanHang 2\\quanlybanhang\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\admin\\Downloads\\QuanLyBanHang 2-20241025T072532Z-001\\QuanLyBanHang 2\\quanlybanhang\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\admin\\Downloads\\QuanLyBanHang 2-20241025T072532Z-001\\QuanLyBanHang 2\\quanlybanhang\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\admin\\Downloads\\QuanLyBanHang 2-20241025T072532Z-001\\QuanLyBanHang 2\\quanlybanhang\\frmthanhpho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmthanhpho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\admin\\Downloads\\QuanLyBanHang 2-20241025T072532Z-001\\QuanLyBanHang 2\\quanlybanhang\\frmnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmNhanVien.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanLyBanHang 2-20241025T072532Z-001\\QuanLyBanHang 2\\QuanLyBanHang\\frmNhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmNhanVien.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanLyBanHang 2-20241025T072532Z-001\\QuanLyBanHang 2\\QuanLyBanHang\\frmNhanVien.Designer.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmNhanVien.Designer.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAYwH0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:18:05.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanLyBanHang 2-20241025T072532Z-001\\QuanLyBanHang 2\\QuanLyBanHang\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanLyBanHang 2-20241025T072532Z-001\\QuanLyBanHang 2\\QuanLyBanHang\\frmNhanVien.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmNhanVien.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAkwIwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:20:17.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanLyBanHang 2-20241025T072532Z-001\\QuanLyBanHang 2\\QuanLyBanHang\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanLyBanHang 2-20241025T072532Z-001\\QuanLyBanHang 2\\QuanLyBanHang\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:19:17.141Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanLyBanHang 2-20241025T072532Z-001\\QuanLyBanHang 2\\QuanLyBanHang\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmKhachHang.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanLyBanHang 2-20241025T072532Z-001\\QuanLyBanHang 2\\QuanLyBanHang\\frmKhachHang.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmKhachHang.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAkwM8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:47:19.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanLyBanHang 2-20241025T072532Z-001\\QuanLyBanHang 2\\QuanLyBanHang\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmKhachHang.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanLyBanHang 2-20241025T072532Z-001\\QuanLyBanHang 2\\QuanLyBanHang\\frmKhachHang.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\frmKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:19:32.114Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmThanhPho.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QuanLyBanHang 2-20241025T072532Z-001\\QuanLyBanHang 2\\QuanLyBanHang\\frmThanhPho.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmThanhPho.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanLyBanHang 2-20241025T072532Z-001\\QuanLyBanHang 2\\QuanLyBanHang\\frmThanhPho.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmThanhPho.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAcwOgAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:24:37.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
