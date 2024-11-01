@@ -121,5 +121,11 @@ namespace QuanLyBanHang
         {
 
         }
+
+        private void danhMụcSảnPhẩmToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            Form frm = new frmSanPham();
+            frm.ShowDialog();
+        }
     }
 }
