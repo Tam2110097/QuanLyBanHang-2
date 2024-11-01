@@ -234,6 +234,7 @@
             this.danhMụcSảnPhẩmToolStripMenuItem1.Name = "danhMụcSảnPhẩmToolStripMenuItem1";
             this.danhMụcSảnPhẩmToolStripMenuItem1.Size = new System.Drawing.Size(269, 26);
             this.danhMụcSảnPhẩmToolStripMenuItem1.Text = "Danh mục Sản phẩm";
+            this.danhMụcSảnPhẩmToolStripMenuItem1.Click += new System.EventHandler(this.danhMụcSảnPhẩmToolStripMenuItem1_Click);
             // 
             // danhMụcHóaĐơnToolStripMenuItem1
             // 
@@ -323,9 +324,9 @@
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Location = new System.Drawing.Point(525, 134);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox1.Size = new System.Drawing.Size(328, 255);
             this.groupBox1.TabIndex = 2;
             this.groupBox1.TabStop = false;
@@ -401,7 +402,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Màn hình chính";
             this.Load += new System.EventHandler(this.Form1_Load);

@@ -111,3 +111,23 @@ C:\Users\admin\Downloads\QuanLyBanHang 2-20241025T072532Z-001\QuanLyBanHang 2\Qu
 C:\Users\admin\Downloads\QuanLyBanHang 2-20241025T072532Z-001\QuanLyBanHang 2\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
 C:\Users\admin\Downloads\QuanLyBanHang 2-20241025T072532Z-001\QuanLyBanHang 2\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
 C:\Users\admin\Downloads\QuanLyBanHang 2-20241025T072532Z-001\QuanLyBanHang 2\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\CT244\CT244_Project_2\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\CT244\CT244_Project_2\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\CT244\CT244_Project_2\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\CT244\CT244_Project_2\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\CT244\CT244_Project_2\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+D:\CT244\CT244_Project_2\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form2.resources
+D:\CT244\CT244_Project_2\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+D:\CT244\CT244_Project_2\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoKhachHang.resources
+D:\CT244\CT244_Project_2\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHangTheoThanhPho.resources
+D:\CT244\CT244_Project_2\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\CT244\CT244_Project_2\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTacGia.resources
+D:\CT244\CT244_Project_2\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThanhPho.resources
+D:\CT244\CT244_Project_2\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form3.resources
+D:\CT244\CT244_Project_2\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\CT244\CT244_Project_2\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\CT244\CT244_Project_2\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\CT244\CT244_Project_2\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\CT244\CT244_Project_2\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\CT244\CT244_Project_2\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\CT244\CT244_Project_2\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
